@@ -6,7 +6,7 @@
 
 When you open automatically you will see the logs, there is a search system with different functions using ";"
 
-e.g: **Name:console.exe;Reason:file deletete**
+e.g: **Name:console.exe;Reason:file delete**
 
 
 **NOTE:** The imgui can cause problems, I will fix it later.
