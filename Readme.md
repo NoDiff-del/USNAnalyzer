@@ -4,4 +4,6 @@
 
 ## How to use?
 
-When you open automatically you will see the logs, there is a search system with different functions, e.g. Name:console.exe;Reason:file deletete
+When you open automatically you will see the logs, there is a search system with different functions using ";"
+
+e.g: **Name:console.exe;Reason:file deletete**
